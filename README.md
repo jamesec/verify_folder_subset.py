@@ -63,7 +63,7 @@ If everything from the older folder exists in the newer folder, the script repor
 
 This means folder_002 is a content subset of folder_001.
 
-If files are missing
+## If files are missing
 If some files from folder_002 cannot be found by content in folder_001, the script reports:
 
 ```
